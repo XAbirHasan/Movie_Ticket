@@ -10,7 +10,7 @@ Project No: 6 <br>
 Year: late 2017
 
 ## Demo Video
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/qAH3MHBDLWk/0.jpg)](http://www.youtube.com/watch?v=qAH3MHBDLWk "Snake2 || iGraphics")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/Pir1vJ_FpIE/0.jpg)](http://www.youtube.com/watch?v=Pir1vJ_FpIE "Movie Ticket || iGraphics")
 
 ## Screen shot
 ### Homescreen
