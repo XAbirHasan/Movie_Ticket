@@ -5,7 +5,7 @@ This is a mini project to replicate a website. But back then I only knew html(lo
 ## Project description
 Name: Movie Ticket <br>
 Programming Language: C & C++ <br>
-GUI: iGraphics
+GUI: iGraphics <br>
 Project No: 6 <br>
 Year: late 2017
 
